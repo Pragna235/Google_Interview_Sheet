@@ -2,5 +2,5 @@
 Mock Test Series
 
 * TCS Codevita Solutions 2023
-  ROI - https://github.com/Pragna235/Google_Interview_Sheet/blob/main/ROI.cpp
-  Sports Day - https://github.com/Pragna235/Google_Interview_Sheet/blob/main/Sports%20Day.py
+  * ROI - https://github.com/Pragna235/Google_Interview_Sheet/blob/main/ROI.cpp
+  * Sports Day - https://github.com/Pragna235/Google_Interview_Sheet/blob/main/Sports%20Day.py
