@@ -7,3 +7,4 @@ Mock Test Series
 
 * Amazon SDE 2M Internship Online Assessment 2023 Solutions
   * Get Minimum Distance - https://github.com/Pragna235/Google_Interview_Sheet/blob/main/getMinDistance.cpp
+  * Sort Product Codes - https://github.com/Pragna235/Google_Interview_Sheet/blob/main/sortProductCodes.py
